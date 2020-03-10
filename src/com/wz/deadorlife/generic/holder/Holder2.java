@@ -1,4 +1,4 @@
-package com.wz.deadorlife.generic;
+package com.wz.deadorlife.generic.holder;
 
 /**
  * 一个只能持有单个对象的类

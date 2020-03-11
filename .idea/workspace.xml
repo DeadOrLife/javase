@@ -2,47 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50c09792-9ab8-4f30-80b6-3725a49567f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/META-INF/javase.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/LinkedStack$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/LinkedStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/holder/Automobile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/holder/Holder1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/holder/Holder2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/holder/Holder3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/holder/Holder4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/Amphibian.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/FiveTuple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/FourTuple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/SixTuple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/ThreeTuple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/TupleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/TwoTuple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/tuple/FiveTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/tuple/FourTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/tuple/SixTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/tuple/ThreeTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/tuple/TupleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/tuple/TwoTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/foreachstatement/ForEachFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/foreachstatement/ForEachInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/foreachstatement/ForeachString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/forstatement/CommaOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/forstatement/ListCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/ifstatement/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/test/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/test/PrintOneToHundred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/test/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/whilestatement/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/whilestatement/WhileTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/Automobile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/Holder1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/Holder2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/Holder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/holder/Holder1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/Holder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/holder/Holder2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/Holder3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/holder/Holder3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/Holder4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/generic/holder/Holder4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -90,13 +74,13 @@
       <recent name="E:\IdeaProject\javase\src\com\wz\deadorlife\generic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedStack">
-    <configuration name="Holder2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wz.deadorlife.generic.holder.Holder2" />
+  <component name="RunManager" selected="Application.ForeachString">
+    <configuration name="CommaOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wz.deadorlife.execute.forstatement.CommaOperator" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wz.deadorlife.generic.tuple.*" />
+          <option name="PATTERN" value="com.wz.deadorlife.execute.forstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wz.deadorlife.generic.LinkedStack" />
+    <configuration name="ForEachFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wz.deadorlife.execute.foreachstatement.ForEachFloat" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wz.deadorlife.generic.*" />
+          <option name="PATTERN" value="com.wz.deadorlife.execute.foreachstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +101,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TupleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wz.deadorlife.generic.tuple.TupleTest" />
+    <configuration name="ForeachString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wz.deadorlife.execute.foreachstatement.ForeachString" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wz.deadorlife.generic.tuple.*" />
+          <option name="PATTERN" value="com.wz.deadorlife.execute.foreachstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wz.deadorlife.execute.test.PrimeNumber" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wz.deadorlife.execute.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wz.deadorlife.execute.test.RandomNumber" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wz.deadorlife.execute.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,9 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedStack" />
-        <item itemvalue="Application.TupleTest" />
-        <item itemvalue="Application.Holder2" />
+        <item itemvalue="Application.ForeachString" />
+        <item itemvalue="Application.ForEachFloat" />
+        <item itemvalue="Application.CommaOperator" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.RandomNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +176,7 @@
       <workItem from="1583825667486" duration="1789000" />
       <workItem from="1583827484199" duration="1857000" />
       <workItem from="1583829360237" duration="798000" />
-      <workItem from="1583836068167" duration="6224000" />
+      <workItem from="1583836068167" duration="17345000" />
     </task>
     <task id="LOCAL-00001" summary="增加泛型的方式">
       <created>1583828426573</created>
@@ -173,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583828426573</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="范型学习">
+      <created>1583857107427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583857107427</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +200,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加泛型的方式" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加泛型的方式" />
+    <MESSAGE value="范型学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="范型学习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="949" y="225" key="#Inspections" timestamp="1583850545716">
@@ -197,10 +217,11 @@
     </state>
     <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1583827752618" />
     <state x="678" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1583851279930" />
-    <state x="400" y="16" key="CommitChangelistDialog2" timestamp="1583828425207">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="448" y="21" key="CommitChangelistDialog2" timestamp="1583857107274">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="400" y="16" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583828425207" />
+    <state x="448" y="21" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583857107274" />
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1583828715989">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -213,50 +234,51 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="647" y="127" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1583828082684" />
-    <state width="844" height="391" key="GridCell.Tab.0.bottom" timestamp="1583853177309">
+    <state width="844" height="318" key="GridCell.Tab.0.bottom" timestamp="1583944016240">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583828429113" />
-    <state width="844" height="391" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583853177309" />
-    <state width="844" height="391" key="GridCell.Tab.0.center" timestamp="1583853177309">
+    <state width="844" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583944016240" />
+    <state width="844" height="318" key="GridCell.Tab.0.center" timestamp="1583944016239">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583828429113" />
-    <state width="844" height="391" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583853177309" />
-    <state width="844" height="391" key="GridCell.Tab.0.left" timestamp="1583853177308">
+    <state width="844" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583944016239" />
+    <state width="844" height="318" key="GridCell.Tab.0.left" timestamp="1583944016238">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583828429113" />
-    <state width="844" height="391" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583853177308" />
-    <state width="844" height="391" key="GridCell.Tab.0.right" timestamp="1583853177309">
+    <state width="844" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583944016238" />
+    <state width="844" height="318" key="GridCell.Tab.0.right" timestamp="1583944016239">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583828429113" />
-    <state width="844" height="391" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583853177309" />
-    <state width="844" height="391" key="GridCell.Tab.1.bottom" timestamp="1583853177357">
+    <state width="844" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583944016239" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1583857155748">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="844" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583853177357" />
-    <state width="844" height="391" key="GridCell.Tab.1.center" timestamp="1583853177357">
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583857155748" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1583857155747">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="844" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583853177357" />
-    <state width="844" height="391" key="GridCell.Tab.1.left" timestamp="1583853177356">
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583857155747" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1583857155746">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="844" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583853177356" />
-    <state width="844" height="391" key="GridCell.Tab.1.right" timestamp="1583853177357">
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583857155746" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1583857155747">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="844" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583853177357" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583857155747" />
     <state x="280" y="3" key="SettingsEditor" timestamp="1583826180303">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="3" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583826180303" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1583830139087">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="439" y="211" key="Vcs.Push.Dialog.v2" timestamp="1583857126250">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583830139087" />
+    <state x="439" y="211" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1583857126250" />
     <state x="480" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1583830190641">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -269,45 +291,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="593" y="293" key="git4idea.rebase.GitRebaseDialog/0.0.1600.860@0.0.1600.860" timestamp="1583830135455" />
-    <state x="1014" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1583852375167">
+    <state x="1014" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1583935318876">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="1014" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1583852375167" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wz/deadorlife/generic/LinkedStack.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wz/deadorlife/generic/LinkedStack.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wz/deadorlife/generic/LinkedStack.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wz/deadorlife/generic/LinkedStack.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wz/deadorlife/generic/LinkedStack.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wz/deadorlife/generic/LinkedStack.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="1014" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1583935318876" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.wz.deadorlife.generic;
+package com.wz.deadorlife.generic.holder;
 
 /**
  * 使用泛型的方式

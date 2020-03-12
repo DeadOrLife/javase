@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50c09792-9ab8-4f30-80b6-3725a49567f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/switchstatement/VowelsAndConsonants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/test/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/test/ForPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/unconditionalbranchstatemenet/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/unconditionalbranchstatemenet/LeaberFor.java" afterDir="false" />
+    <list default="true" id="50c09792-9ab8-4f30-80b6-3725a49567f6" name="Default Changelist" comment="学习操作符">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/TupleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javase/com/wz/deadorlife/generic/tuple/TupleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/forstatement/ListCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wz/deadorlife/execute/forstatement/ListCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,10 +223,10 @@
     </state>
     <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1583827752618" />
     <state x="678" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1583851279930" />
-    <state x="400" y="16" key="CommitChangelistDialog2" timestamp="1584004569241">
+    <state x="400" y="16" key="CommitChangelistDialog2" timestamp="1584004936040">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="400" y="16" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1584004569241" />
+    <state x="400" y="16" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1584004936040" />
     <state x="448" y="21" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583857107274" />
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1583828715989">
       <screen x="0" y="0" width="1600" height="860" />
@@ -295,10 +288,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="3" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583826180303" />
-    <state x="439" y="211" key="Vcs.Push.Dialog.v2" timestamp="1583857126250">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1584004855484">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583830139087" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1584004855484" />
     <state x="439" y="211" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1583857126250" />
     <state x="480" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1584003457036">
       <screen x="0" y="0" width="1600" height="860" />

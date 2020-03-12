@@ -4,6 +4,8 @@ package com.wz.deadorlife.execute.forstatement;
  * for(initializtion;Boolean-expression;step)
  *  statement
  *
+ * 无穷循环
+ * for(;;)与while(true)
  * @author jamesbean
  */
 public class ListCharacters {
